@@ -2,7 +2,7 @@
 
 join my Group - https://t.me/hexafreinds
 
-Thanks to Conan Edogowa for code 
+Thanks to Mahesh for code 
 
 To host bot Run these commands -
 
