@@ -6,7 +6,7 @@ bot_token = "6302227617:AAF7jCHf_PngBmgAA27aM6yju5mnihbqBVc"
 
 GROUP_TAG = "HF"
 
-sudo_users = [1596559467]
+sudo_users = "1596559467"
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
