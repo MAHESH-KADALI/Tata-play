@@ -1,12 +1,12 @@
-api_id = "4857766"
+api_id = "12183504"
 
-api_hash = "6c3c6facf5598a4b318e138f8c407028"
+api_hash = "e8940ffd7acc09622c404b9e42d3aacb"
 
 bot_token = "6302227617:AAF7jCHf_PngBmgAA27aM6yju5mnihbqBVc"
 
 GROUP_TAG = "HF"
 
-sudo_users = [1596559467]
+sudo_users = [5518437348]
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
